@@ -1,0 +1,33 @@
+.firstBanner{
+    background-image: url("images/bannerOne.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.firstBanner_list{
+    color: #E6E6E6 ;
+}
+.firstBanner-view{
+    color: #E6E6E6 ;
+    border: 1px solid #E6E6E6 ;
+    width: 100px;
+    padding: 10px 15px;
+}
+.firstBanner span{
+    color:#53A4E5;
+}
+.firstBanner h1{
+    color:#53A4E5;
+}
+.firstBanner-down{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+.firstBanner-box{
+    border: 1px solid #53A4E5;
+    background-color: #2C2B2B;
+    padding: 20px;
+}
